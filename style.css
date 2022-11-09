@@ -239,5 +239,15 @@ html {
     border-style: solid;
     border-width: 1px; 
 }
-
+.UK {
+    width: 400px;
+    height: 440px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 0px;
+    top: -2020px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
 </style>
