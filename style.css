@@ -1,10 +1,9 @@
-<style>
-body {
+<style>body {
     background: rgb(63, 63, 63);
     color: rgb(255, 254, 254);
-    position:fixed;
-    overflow:hidden;
-    width:50%;
+    position: fixed;
+    overflow: hidden;
+    width: 50%;
 }
 
 a {
@@ -16,19 +15,22 @@ h1 {
     font-family: monospace;
     color: rgba(42, 194, 100, 0.445);
 }
+
 h3 {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
- color: white;
+    color: white;
 }
 
 
 p {
     font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
-color: rgb(42, 194, 100);
+    color: rgb(42, 194, 100);
 }
+
 html {
-    width: 1920px;
-    height: 1080px;
+    place-items: center;
+    width: 100vw;
+    height: 100vh;
 }
 
 
@@ -53,6 +55,7 @@ html {
     border-style: solid;
     border-width: 0px;
 }
+
 .vanya3 {
     width: 400px;
     height: 150px;
@@ -64,6 +67,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .vanya4 {
     width: 100px;
     height: 150px;
@@ -87,6 +91,7 @@ html {
     border-style: solid;
     border-width: 0px;
 }
+
 .denis2 {
     width: 400px;
     height: 150px;
@@ -98,6 +103,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .denis3 {
     width: 100px;
     height: 150px;
@@ -121,6 +127,7 @@ html {
     border-style: solid;
     border-width: 0px;
 }
+
 .nikita2 {
     width: 400px;
     height: 150px;
@@ -132,6 +139,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .nikita3 {
     width: 100px;
     height: 150px;
@@ -155,6 +163,7 @@ html {
     border-style: solid;
     border-width: 0px;
 }
+
 .serega2 {
     width: 400px;
     height: 150px;
@@ -166,6 +175,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .serega3 {
     width: 100px;
     height: 150px;
@@ -194,6 +204,7 @@ html {
     border-style: solid;
     border-width: 0px;
 }
+
 .gif {
     width: 600px;
     height: 600px;
@@ -206,6 +217,7 @@ html {
     border-width: 1px;
 
 }
+
 .text {
     width: 400px;
     height: 530px;
@@ -217,6 +229,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .SF {
     width: 400px;
     height: 440px;
@@ -228,6 +241,7 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 .flag {
     width: 1100px;
     height: 350px;
@@ -237,8 +251,9 @@ html {
     top: -2936px;
     border-radius: 10px;
     border-style: solid;
-    border-width: 1px; 
+    border-width: 1px;
 }
+
 .UK {
     width: 400px;
     height: 440px;
@@ -250,4 +265,5 @@ html {
     border-style: solid;
     border-width: 1px;
 }
+
 </style>
