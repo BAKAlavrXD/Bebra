@@ -1,0 +1,243 @@
+<style>
+body {
+    background: rgb(63, 63, 63);
+    color: rgb(255, 254, 254);
+    position:fixed;
+    overflow:hidden;
+    width:100%
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
+
+h1 {
+    font-family: monospace;
+    color: white;
+}
+h3 {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+ color: white;
+}
+
+
+p {
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+color: white;
+}
+html {
+    width: 1920px;
+    height: 1080px;
+}
+
+
+.vanya {
+    width: 150px;
+    height: 150px;
+    background: black;
+    position: relative;
+    left: 0px;
+    top: 0px;
+    object-fit: contain;
+}
+
+.vanya2 {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 10px;
+    top: -120px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+.vanya3 {
+    width: 400px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 170px;
+    top: -720px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.vanya4 {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 600px;
+    top: -1330px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.denis {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 10px;
+    top: -40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+.denis2 {
+    width: 400px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 170px;
+    top: -640px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.denis3 {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 600px;
+    top: -1250px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.nikita {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 10px;
+    top: 40px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+.nikita2 {
+    width: 400px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 170px;
+    top: -560px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.nikita3 {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 600px;
+    top: -1170px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.serega {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 10px;
+    top: 120px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+.serega2 {
+    width: 400px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 170px;
+    top: -480px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.serega3 {
+    width: 100px;
+    height: 150px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 600px;
+    top: -1090px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+
+.back {
+    position: relative;
+    bottom: 0px;
+    object-fit: cover;
+}
+
+* {
+    padding: 0px;
+    margin: 0px;
+}
+
+.Foto {
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 0px;
+}
+.gif {
+    width: 600px;
+    height: 600px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 1180px;
+    top: -1900px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+
+}
+.text {
+    width: 400px;
+    height: 668px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 740px;
+    top: -2570px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.SF {
+    width: 400px;
+    height: 440px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 0px;
+    top: -2271px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px;
+}
+.flag {
+    width: 1100px;
+    height: 300px;
+    background: rgba(82, 78, 78, 0.37);
+    position: relative;
+    left: 760px;
+    top: -3013px;
+    border-radius: 10px;
+    border-style: solid;
+    border-width: 1px; 
+}
+
+</style>
